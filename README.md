@@ -105,15 +105,6 @@ Credential Verification
 - Tamper-proof verification
 - No centralized authority dependency
 
-
- 👨‍💻 Team Members
-
-- Priyadharshini  K
-- Rechivarthini S K
-- Saumiyaa Sri V L
-- Prem Raj
-- Venkatram
-
  📈 Future Enhancements
 
 - IPFS Integration
