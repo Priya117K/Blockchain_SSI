@@ -55,6 +55,7 @@ Verifier validates the credential authenticity directly from blockchain.
  🔗 Blockchain Components
 
  Smart Contracts
+ 
 - Identity Management Contract
 - Credential Issuance Contract
 - Verification Contract
