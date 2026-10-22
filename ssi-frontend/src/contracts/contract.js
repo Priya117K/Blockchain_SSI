@@ -34,7 +34,7 @@ export const getAccount = async () => {
   }
 };
 
-// ✅ Get Contract Instance
+
 export const getContract = async () => {
   try {
     const web3Instance = await getWeb3();
