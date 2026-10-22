@@ -6,7 +6,6 @@ const CONTRACT_ADDRESS = "0xEbD9e80434ec2963A08905d257E7B343ab69d7d4";
 let web3;
 let contract;
 
-// ✅ Get Web3 instance
 export const getWeb3 = async () => {
   if (web3) return web3;
 
