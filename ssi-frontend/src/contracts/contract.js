@@ -19,7 +19,6 @@ export const getWeb3 = async () => {
   return web3;
 };
 
-// ✅ Connect to MetaMask and return account
 export const getAccount = async () => {
   try {
     const web3Instance = await getWeb3();
